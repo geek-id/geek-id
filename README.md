@@ -33,7 +33,7 @@ I'm a **Linux System Administrator, DevOps/SRE, and Technical Support Specialist
 #### <img src="https://cdn-icons-png.flaticon.com/512/14665/14665047.png" width="30"> Hosting Stuff
 * cPanel/WHM, Plesk, DirectAdmin, cyberPanel, aaPanel, SmarterMail, Mailchannels, SpamExpert, WHMCS, Upmind
 
-#### <img src="https://seeklogo.com/images/D/devops-logo-CDF1353483-seeklogo.com.png" width="40"> DevOps/SRE Stuff
+#### <img src="https://cdn-icons-png.flaticon.com/512/5687/5687273.png" width="40"> DevOps/SRE Stuff
 * Git, Ansible, Docker, Grafana, Prometheus, Grafan Loki, Fluentbit/Fluentd, ElastichSearch, Kibana, Logstash, ClickHouse, GitHub Action
 
 ### Get in Touch
