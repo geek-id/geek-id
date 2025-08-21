@@ -13,14 +13,10 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ## Hi there, I'm Adhitya Putra (**geek-id**) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### :man_technologist: About Me :
-I'm a Linux System Administrator, DevOps Engineer, and Dedicated Technical Support Specialist from Indonesia 🇮🇩 with over 5 years of passionate experience in Linux & DevOps, I excel in delivering top-notch system administration, efficient DevOps practices, and dedicated technical support.
+I'm a **Linux System Administrator, DevOps/SRE, and Technical Support Specialist** from Indonesia 🇮🇩 with over **7 years of hands-on experience** in the hosting industry.I specialize in delivering reliable system administration, implementing efficient DevOps practices, and providing dedicated technical support.
 
 
 ### 📋 Skills
